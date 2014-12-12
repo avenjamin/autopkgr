@@ -60,6 +60,104 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		16908D3D1A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 76656B608E6E9219CF45608E;
+			remoteInfo = "Pods-AutoPkgr";
+		};
+		16908D3F1A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 007E71CE7115090B105320CA;
+			remoteInfo = "Pods-AutoPkgr-AFNetworking";
+		};
+		16908D411A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8662D6C480B9466356C8C24F;
+			remoteInfo = "Pods-AutoPkgr-AHProxySettings";
+		};
+		16908D431A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 21B9B62E7424A1077B1026A9;
+			remoteInfo = "Pods-AutoPkgr-SSKeychain";
+		};
+		16908D451A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 13FE2ED4E826484E0BA3285E;
+			remoteInfo = "Pods-AutoPkgr-Sparkle";
+		};
+		16908D471A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B34664310C4A441B5B99F2F9;
+			remoteInfo = "Pods-AutoPkgr-XMLDictionary";
+		};
+		16908D491A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 7F5A189ECF7A5816DF1119C9;
+			remoteInfo = "Pods-AutoPkgrTests";
+		};
+		16908D4B1A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2BB9D50776BD9DCA44BCD62C;
+			remoteInfo = "Pods-AutoPkgrTests-AFNetworking";
+		};
+		16908D4D1A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 303577F306ABDC3653E4E621;
+			remoteInfo = "Pods-AutoPkgrTests-AHProxySettings";
+		};
+		16908D4F1A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6217C304C3AAF48BDE4FC7A6;
+			remoteInfo = "Pods-AutoPkgrTests-SSKeychain";
+		};
+		16908D511A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6940C0386F32EFC7C40578E4;
+			remoteInfo = "Pods-AutoPkgrTests-Sparkle";
+		};
+		16908D531A3B0AD800CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C2DE71E67133BB6D09BA0F95;
+			remoteInfo = "Pods-AutoPkgrTests-XMLDictionary";
+		};
+		16908D551A3B0AE300CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = A381995FD9A0CF983D71D63A;
+			remoteInfo = "Pods-AutoPkgr";
+		};
+		16908D571A3B0AEB00CBC5C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = EAE918BE8BB9DC0A6BEE4822;
+			remoteInfo = "Pods-AutoPkgrTests";
+		};
 		1A0A86A5195CE5DC00A49434 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 1A0A869D195CE5DB00A49434 /* mailcore2.xcodeproj */;
@@ -140,6 +238,7 @@
 
 /* Begin PBXFileReference section */
 		04CA360328E704A8E80B244B /* Pods-AutoPkgr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AutoPkgr.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AutoPkgr/Pods-AutoPkgr.debug.xcconfig"; sourceTree = "<group>"; };
+		16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
 		16E87146BB0135D03CB6ECA8 /* Pods-AutoPkgr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AutoPkgr.release.xcconfig"; path = "Pods/Target Support Files/Pods-AutoPkgr/Pods-AutoPkgr.release.xcconfig"; sourceTree = "<group>"; };
 		1A0A869D195CE5DB00A49434 /* mailcore2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mailcore2.xcodeproj; path = "mailcore2/build-mac/mailcore2.xcodeproj"; sourceTree = SOURCE_ROOT; };
 		1A0A86B0195CE69300A49434 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
@@ -252,6 +351,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		16908D291A3B0AD800CBC5C8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				16908D3E1A3B0AD800CBC5C8 /* libPods-AutoPkgr.a */,
+				16908D401A3B0AD800CBC5C8 /* libPods-AutoPkgr-AFNetworking.a */,
+				16908D421A3B0AD800CBC5C8 /* libPods-AutoPkgr-AHProxySettings.a */,
+				16908D441A3B0AD800CBC5C8 /* libPods-AutoPkgr-SSKeychain.a */,
+				16908D461A3B0AD800CBC5C8 /* libPods-AutoPkgr-Sparkle.a */,
+				16908D481A3B0AD800CBC5C8 /* libPods-AutoPkgr-XMLDictionary.a */,
+				16908D4A1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests.a */,
+				16908D4C1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-AFNetworking.a */,
+				16908D4E1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-AHProxySettings.a */,
+				16908D501A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-SSKeychain.a */,
+				16908D521A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-Sparkle.a */,
+				16908D541A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-XMLDictionary.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		1A0A869E195CE5DB00A49434 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -282,6 +400,7 @@
 				1AC6954E195B59ED00D2BD81 /* Products */,
 				1AC69574195B59EE00D2BD81 /* AutoPkgrTests */,
 				1A0A869D195CE5DB00A49434 /* mailcore2.xcodeproj */,
+				16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */,
 				90C60AB0B9E4D774CB4EA44A /* Pods */,
 			);
 			sourceTree = "<group>";
@@ -488,6 +607,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				16908D561A3B0AE300CBC5C8 /* PBXTargetDependency */,
 				1A0A86B3195CE6B500A49434 /* PBXTargetDependency */,
 			);
 			name = AutoPkgr;
@@ -508,6 +628,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				16908D581A3B0AEB00CBC5C8 /* PBXTargetDependency */,
 				1AC69573195B59EE00D2BD81 /* PBXTargetDependency */,
 			);
 			name = AutoPkgrTests;
@@ -546,6 +667,10 @@
 					ProductGroup = 1A0A869E195CE5DB00A49434 /* Products */;
 					ProjectRef = 1A0A869D195CE5DB00A49434 /* mailcore2.xcodeproj */;
 				},
+				{
+					ProductGroup = 16908D291A3B0AD800CBC5C8 /* Products */;
+					ProjectRef = 16908D281A3B0AD800CBC5C8 /* Pods.xcodeproj */;
+				},
 			);
 			projectRoot = "";
 			targets = (
@@ -556,6 +681,90 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
+		16908D3E1A3B0AD800CBC5C8 /* libPods-AutoPkgr.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr.a";
+			remoteRef = 16908D3D1A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D401A3B0AD800CBC5C8 /* libPods-AutoPkgr-AFNetworking.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr-AFNetworking.a";
+			remoteRef = 16908D3F1A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D421A3B0AD800CBC5C8 /* libPods-AutoPkgr-AHProxySettings.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr-AHProxySettings.a";
+			remoteRef = 16908D411A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D441A3B0AD800CBC5C8 /* libPods-AutoPkgr-SSKeychain.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr-SSKeychain.a";
+			remoteRef = 16908D431A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D461A3B0AD800CBC5C8 /* libPods-AutoPkgr-Sparkle.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr-Sparkle.a";
+			remoteRef = 16908D451A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D481A3B0AD800CBC5C8 /* libPods-AutoPkgr-XMLDictionary.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgr-XMLDictionary.a";
+			remoteRef = 16908D471A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D4A1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests.a";
+			remoteRef = 16908D491A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D4C1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-AFNetworking.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests-AFNetworking.a";
+			remoteRef = 16908D4B1A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D4E1A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-AHProxySettings.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests-AHProxySettings.a";
+			remoteRef = 16908D4D1A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D501A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-SSKeychain.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests-SSKeychain.a";
+			remoteRef = 16908D4F1A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D521A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-Sparkle.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests-Sparkle.a";
+			remoteRef = 16908D511A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		16908D541A3B0AD800CBC5C8 /* libPods-AutoPkgrTests-XMLDictionary.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-AutoPkgrTests-XMLDictionary.a";
+			remoteRef = 16908D531A3B0AD800CBC5C8 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		1A0A86A6195CE5DC00A49434 /* libMailCore.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -772,6 +981,16 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		16908D561A3B0AE300CBC5C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-AutoPkgr";
+			targetProxy = 16908D551A3B0AE300CBC5C8 /* PBXContainerItemProxy */;
+		};
+		16908D581A3B0AEB00CBC5C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-AutoPkgrTests";
+			targetProxy = 16908D571A3B0AEB00CBC5C8 /* PBXContainerItemProxy */;
+		};
 		1A0A86B3195CE6B500A49434 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "mailcore osx";
@@ -904,7 +1123,6 @@
 			baseConfigurationReference = 04CA360328E704A8E80B244B /* Pods-AutoPkgr.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application: The Linde Group Computer Support Inc (JVY2ZR6SEF)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoPkgr/AutoPkgr-Prefix.pch";
@@ -921,7 +1139,6 @@
 			baseConfigurationReference = 16E87146BB0135D03CB6ECA8 /* Pods-AutoPkgr.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Developer ID Application: The Linde Group Computer Support Inc (JVY2ZR6SEF)";
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoPkgr/AutoPkgr-Prefix.pch";
