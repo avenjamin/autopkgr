@@ -122,18 +122,32 @@
 {
     if ([[tableColumn identifier] isEqualToString:@"recipeCheckbox"]) {
         NSMutableArray *workingArray = [NSMutableArray arrayWithArray:_activeRecipes];
-        if ([object isEqual:@YES]) {
-            [workingArray addObject:[_searchedRecipes objectAtIndex:row]];
-        } else {
-            NSUInteger index = [workingArray indexOfObject:[_searchedRecipes objectAtIndex:row]];
-            if (index != NSNotFound) {
-                [workingArray removeObjectAtIndex:index];
-            } else {
-                NSLog(@"Cannot find item %@ in workingArray.", [_searchedRecipes objectAtIndex:row]);
-            }
-        }
+		
+		// Toggle all recipes if Option/Alt key held down…
+		if ([NSEvent modifierFlags] & NSAlternateKeyMask) {
+			if ([object isEqual:@YES]) {
+				workingArray = [NSMutableArray arrayWithArray:_searchedRecipes];
+			} else {
+				[workingArray removeAllObjects];
+			}
+			
+		// …Otherwise just toggle the selected recipe
+		} else {
+			if ([object isEqual:@YES]) {
+				[workingArray addObject:[_searchedRecipes objectAtIndex:row]];
+			} else {
+				NSUInteger index = [workingArray indexOfObject:[_searchedRecipes objectAtIndex:row]];
+				if (index != NSNotFound) {
+					[workingArray removeObjectAtIndex:index];
+				} else {
+					NSLog(@"Cannot find item %@ in workingArray.", [_searchedRecipes objectAtIndex:row]);
+				}
+			}
+				
+		}
         _activeRecipes = [NSArray arrayWithArray:workingArray];
         [self writeRecipeList];
+		[tableView reloadData];
     }
 
     return;
